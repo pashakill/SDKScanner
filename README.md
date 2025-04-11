@@ -1,9 +1,8 @@
-# sdk_scanner
+# SDK Scanner QRIS
 
-A new Flutter module project.
+A new Flutter module project for project work.
 
 ## Getting Started
-
 For help getting started with Flutter development, view the online
 [documentation](https://flutter.dev/).
 
